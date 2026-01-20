@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ride-sharing-app-community-yge8ki.teleporthq.app/sitemap.xml
